@@ -1,3 +1,5 @@
 # leaflet-geojson
-first approach:
-![Image description](img/first-sample.png)
+first approach, several point types with a line :
+
+
+![first sample](img/first-sample.png)
